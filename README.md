@@ -233,7 +233,7 @@ O projeto utiliza um sistema de cores definido em CSS custom properties:
 ---
 ## 📷 Dashboard do Sistema
 
-![Dashboard](printdashboard.png)
+![Dashboard](printdashboard)
 
 ---
 
